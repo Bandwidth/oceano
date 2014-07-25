@@ -13,6 +13,7 @@ function delay(ms){
 
 module.exports.register = function*(plugin){
   plugin.expose("type", "host");
+  plugin.expose("description",  require("./package.json").description);
   plugin.expose("parameters", {
     credentials:[
       {name: "clientId", required: true},
