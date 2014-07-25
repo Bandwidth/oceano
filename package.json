@@ -1,6 +1,6 @@
 {
   "name": "oceano",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Digital Ocean hosting provider for service_maker",
   "main": "index.js",
   "scripts": {
