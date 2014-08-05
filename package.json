@@ -21,5 +21,12 @@
     "mocha": "^1.21.0",
     "should": "^4.0.4",
     "sinon": "^1.10.3"
-  }
+  },
+  "keywords": [
+    "service_maker",
+    "service maker",
+    "digital ocean",
+    "do",
+    "host"
+  ]
 }
